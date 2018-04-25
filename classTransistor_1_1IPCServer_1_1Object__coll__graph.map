@@ -1,0 +1,8 @@
+<map id="Transistor::IPCServer::Object" name="Transistor::IPCServer::Object">
+<area shape="rect" id="node2" href="$classTransistor_1_1IPCServer_1_1IPCServer.html" title="Transistor::IPCServer\l::IPCServer" alt="" coords="551,6,699,47"/>
+<area shape="rect" id="node3" href="$structipc__server__object__t.html" title="Represents the server side of an IPC object. " alt="" coords="219,13,353,40"/>
+<area shape="rect" id="node4" href="$structipc__server__domain__t.html" title="Represents the server side of an IPC object domain. " alt="" coords="153,121,295,148"/>
+<area shape="rect" id="node5" href="$structipc__server__session__t.html" title="ipc_server_session_t" alt="" coords="154,232,299,259"/>
+<area shape="rect" id="node7" href="$structipc__server__port__t.html" title="ipc_server_port_t" alt="" coords="391,181,513,208"/>
+<area shape="rect" id="node6" href="$structipc__server__t.html" title="ipc_server_t" alt="" coords="300,323,393,349"/>
+</map>

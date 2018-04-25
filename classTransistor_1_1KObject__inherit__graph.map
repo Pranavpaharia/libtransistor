@@ -1,0 +1,5 @@
+<map id="Transistor::KObject" name="Transistor::KObject">
+<area shape="rect" id="node2" href="$classTransistor_1_1KPort.html" title="Transistor::KPort" alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node3" href="$classTransistor_1_1KProcess.html" title="Transistor::KProcess" alt="" coords="150,80,295,107"/>
+<area shape="rect" id="node4" href="$classTransistor_1_1KSharedMemory.html" title="Transistor::KSharedMemory" alt="" coords="319,80,504,107"/>
+</map>
